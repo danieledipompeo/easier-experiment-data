@@ -1,1 +1,0 @@
-Crossover probability: 0.800000. Valid offsprings: 0 / 0.
