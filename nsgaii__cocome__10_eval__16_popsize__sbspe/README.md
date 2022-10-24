@@ -7,5 +7,5 @@
    - Search Budget: none
    - Search Budget Threshold: 6000
 
-docker pull danieledipompeo/easier:v1.1; for i in $(seq 1 30); do docker run -d --log-driver=journald --rm --mount type=tmpfs,destination=/tmp -v /mnt/data/easier/nsgaii__cocome__10_eval__16_popsize__sbspe/run$i:/mnt/easier-output/ danieledipompeo/easier:v1.1 https://raw.githubusercontent.com/danieledipompeo/easier-experiment-data/main/nsgaii__cocome__10_eval__16_popsize__sbspe/config.ini; done
+docker pull danieledipompeo/easier:sbspe; for i in $(seq 1 30); do docker run -d --log-driver=journald --rm --mount type=tmpfs,destination=/tmp -v /mnt/data/easier/nsgaii__cocome__10_eval__16_popsize__sbspe/run$i:/mnt/easier-output/ danieledipompeo/easier:v1.1 https://raw.githubusercontent.com/danieledipompeo/easier-experiment-data/main/nsgaii__cocome__10_eval__16_popsize__sbspe/config.ini; done
 
