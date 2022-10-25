@@ -2,7 +2,7 @@
 ## Run a Docker image
 
  - Experiment: 
-   - Case study: simplified-cocome
+   - Case study: generated
    - Algorithm: nsgaii
    - Search Budget: none
    - Search Budget Threshold: 6000
