@@ -3,7 +3,7 @@
 
  - Experiment: 
    - Case study: simplified-cocome
-   - Algorithm: pesa2
+   - Algorithm: nsgaii
    - Search Budget: none
    - Search Budget Threshold: 6000
 
