@@ -3,7 +3,7 @@
 
  - Experiment: 
    - Case study: 
-   - Algorithm: nsgaii
+   - Algorithm: spea2
    - Search Budget: none
    - Search Budget Threshold: 6000
 
