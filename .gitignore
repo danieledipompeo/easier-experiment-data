@@ -1,3 +1,5 @@
 flatten.sh
 */data/*/*/tmp/*
 */data/*/run*/
+.host*
+*/data
