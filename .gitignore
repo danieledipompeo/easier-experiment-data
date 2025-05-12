@@ -3,3 +3,4 @@ flatten.sh
 */data/*/run*/
 .host*
 */data
+*.bz2
