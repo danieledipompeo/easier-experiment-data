@@ -1,3 +1,0 @@
-problem,reference_front,probPAS,length,model,maxEvaluation,populationSize,sbTimeTh,brf_clone,brf_moc,brf_mcnn,brf_moncnn,algo,budget,quality_indicator,value
-nsgaii-simplified-cocome-1000-eval,rs-simplified-cocome-1000-eval,0.95,4,cocome/simplified-cocome/cocome.uml,1000,16,900000,1.23,1.64,1.80,1.45,nsgaii,none,HV,0.7810538439146733
-nsgaii-simplified-cocome-1000-eval,rs-simplified-cocome-1000-eval,0.95,4,cocome/simplified-cocome/cocome.uml,1000,16,900000,1.23,1.64,1.80,1.45,nsgaii,none,COV,0.8085106382978723
