@@ -3,7 +3,7 @@
 
  - Experiment: 
    - Case study: 
-   - Algorithm: pesa2
+   - Algorithm: nsgaiii
    - Search Budget: none
    - Search Budget Threshold: 900000
 
